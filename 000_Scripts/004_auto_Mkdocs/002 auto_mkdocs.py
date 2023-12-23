@@ -21,7 +21,7 @@ import exifread
 import pandas as pd
 import tqdm
 
-PATH_INIT = r'C:\Users\MasterMao\Desktop\五月夏花'
+PATH_INIT = r'C:\Users\MasterMao\Desktop\打铁花'
 
 
 class AutoMkdocs:
